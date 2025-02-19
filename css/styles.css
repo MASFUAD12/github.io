@@ -1,0 +1,11 @@
+#services img{
+    height: 150px;
+}
+
+#toggleDarkMode{
+    border: 0px;
+}
+body{
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+}
